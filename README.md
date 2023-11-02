@@ -1,1 +1,1 @@
-# Book-recommendation-system
+This project is a collaborative filtering-based book recommendation system that suggests books to users based on their historical interactions and preferences. It uses item-based collaborative filtering to find similarities between books and generate personalized recommendations.
